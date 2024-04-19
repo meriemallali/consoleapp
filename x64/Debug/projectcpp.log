@@ -1,0 +1,15 @@
+﻿  advisorbot.cpp
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\advisorbot.cpp(262,28): warning C4101: 'e': unreferenced local variable
+  CSVReader.cpp
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\CSVReader.cpp(61,27): warning C4101: 'e': unreferenced local variable
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\CSVReader.cpp(85,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\CSVReader.cpp(87,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\CSVReader.cpp(112,31): warning C4101: 'e': unreferenced local variable
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\CSVReader.cpp(139,31): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  OrderBook.cpp
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\OrderBook.cpp(93,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\projectcpp\OrderBook.cpp(101,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OrderBookEntry.cpp
+  Generating Code...
+  projectcpp.vcxproj -> C:\Users\HP EliteBook\Desktop\oopmidterm\projectcpp\x64\Debug\projectcpp.exe
